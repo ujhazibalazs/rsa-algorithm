@@ -1,6 +1,5 @@
 package rsa;
 
-import lombok.Builder;
 import lombok.Data;
 
 @Data
